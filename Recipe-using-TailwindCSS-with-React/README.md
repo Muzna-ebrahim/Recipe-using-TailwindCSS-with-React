@@ -75,3 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Moringa School for the GenAI Capstone Project opportunity
 - The TailwindCSS team for creating such an intuitive framework
 - The React and Vite communities for excellent documentation
+
+## Word document link
+[text](../../word.odt)
